@@ -20,6 +20,10 @@ parts, although one could print certain parts if need-be.
 
 The overall build envelope dimensions remain the same as the Prusa i3.
 
+A bill of materials is forthcoming. That said, it is really pretty straight-forward
+once you have the laser cut frame put together. I will also add some basic labeling
+to each part to make assembly easier.
+
 License
 =======
 
