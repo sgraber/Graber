@@ -25,7 +25,11 @@ to each part to make assembly easier.
 
 NOTE: The long term goal is to make this 3D printer completely laser cuttable.
 Right now the x-motor and x-idler parts remain the only parts that are not
-laser cuttable. These parts will follow soon.
+laser cuttable. These parts will follow soon.  If you choose to build this printer
+before these parts are released, you can use the standard Prusa i3 x-motor and x-idler
+parts and the printer will work fine.
+
+If you find a bug, I welcome notifications, fixes, and even new contributions.
 
 License
 =======
