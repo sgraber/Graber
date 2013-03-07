@@ -1,7 +1,7 @@
 ﻿Graber 3D Printer
 =================
 
-This is the home of the Graber 3D printer.
+This is the home of the Graber 3D printer: http://www.flickr.com/photos/sbgraber/8536293604/in/photostream/lightbox/
 
 This printer design takes a lot of inspiration from Josef Prusa's awesome 
 Prusa i3 printer:
