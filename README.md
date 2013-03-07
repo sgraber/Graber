@@ -34,6 +34,6 @@ Usage
 =====
 
 Since this printer is released under the GNU GPL v.3, it is free for anyone to use,
-reuse, sell, etc.  One thing I'd like to ask is if you do sell it that you 
+reuse, sell, etc.  One thing I'd ask is if you do sell it that you 
 financially contributing back to its continued development and maintenance. 
 Contact me at sgraber@gmail.com if willing.
