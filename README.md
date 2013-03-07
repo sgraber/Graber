@@ -23,7 +23,7 @@ A bill of materials is forthcoming. That said, it is really pretty straight-forw
 once you have the laser cut frame put together. I will also add some basic labeling
 to each part to make assembly easier.
 
-NOTE: The long term goal is to make this 3D printer completely laser cuttable.
+NOTE: The long term goal is to make this 3D printer completely laser cuttable, minus the extruder.
 Right now the x-motor and x-idler parts remain the only parts that are not
 laser cuttable. These parts will follow soon.  If you choose to build this printer
 before these parts are released, you can use the standard Prusa i3 x-motor and x-idler
