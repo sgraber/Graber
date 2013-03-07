@@ -1,17 +1,16 @@
 ﻿Graber 3D Printer
 =================
 
-This is the home of the Graber 3D printer, as seen on 
-http://www.flickr.com/photos/sbgraber/8461173069/in/set-72157632677580692
-
-I have decided to give it a name as the design is enough of a departure from its predecessor
-that it needs differentiating. I am calling it the "Graber" 3D printer. Note on
-pronunciation: the 'a' in 'Graber' is long.
+This is the home of the Graber 3D printer.
 
 This printer design takes a lot of inspiration from Josef Prusa's awesome 
 Prusa i3 printer:
 
 http://reprap.org/wiki/Prusa_i3_Build_Manual#Single_Sheet_Frame_Style
+
+I have decided to give it a name as the design is enough of a departure from its predecessor
+that it needs differentiating. I am calling it the "Graber" 3D printer. Note on
+pronunciation: the 'a' in 'Graber' is long.
 
 What I have done is completely redesign the entire i3 concept to make it laser 
 cuttable.  Some designs have taken this idea part-way, making the frame laser
@@ -23,6 +22,10 @@ The overall build envelope dimensions remain the same as the Prusa i3.
 A bill of materials is forthcoming. That said, it is really pretty straight-forward
 once you have the laser cut frame put together. I will also add some basic labeling
 to each part to make assembly easier.
+
+NOTE: The long term goal is to make this 3D printer completely laser cuttable.
+Right now the x-motor and x-idler parts remain the only parts that are not
+laser cuttable. These parts will follow soon.
 
 License
 =======
