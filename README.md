@@ -15,7 +15,7 @@ pronunciation: the 'a' in 'Graber' is long.
 What I have done is completely redesign the entire i3 concept to make it laser 
 cuttable.  Some designs have taken this idea part-way, making the frame laser
 cuttable along with certain motor mounts. With my design, there are no printed
-parts, although one could print certain parts if need-be.  
+parts, although one could print certain parts if need-be. 
 
 The overall build envelope dimensions remain the same as the Prusa i3.
 
@@ -24,10 +24,11 @@ once you have the laser cut frame put together. I will also add some basic label
 to each part to make assembly easier.
 
 NOTE: The long term goal is to make this 3D printer completely laser cuttable, minus the extruder.
-Right now the x-motor and x-idler parts remain the only parts that are not
-laser cuttable. These parts will follow soon.  If you choose to build this printer
-before these parts are released, you can use the standard Prusa i3 x-motor and x-idler
-parts and the printer will work fine. Expect regular changes to this repository
+Right now the x-motor and x-idler parts remain the only parts untested.  I have just 
+committed an x-idler and x-motor that may work. If you choose to build this printer
+before these parts are tested, you can use the standard Prusa i3 x-motor and x-idler
+parts (even the x-carriage too if you want) and the printer will work fine. 
+Expect regular changes to this repository
 in the coming weeks, so don't get too comfortable if you download this to cut just
 yet.  :)
 
